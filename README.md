@@ -2,10 +2,9 @@
 
 * **Online URL**: TODO
 * **Team members**:
-  * Contact person: TODO@andrew.cmu.edu
-  * TODO@andrew.cmu.edu
-  * TODO@andrew.cmu.edu
-  * TODO@andrew.cmu.edu
+  * Shivani Gampa: sgampa@andrew.cmu.edu
+  * Hamsini Ravishankar: hravisha@andrew.cmu.edu
+  
 
 ## Work distribution
 
