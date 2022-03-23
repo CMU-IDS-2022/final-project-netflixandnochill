@@ -14,7 +14,9 @@ Hamsini Ravishankar: hravisha@andrew.cmu.edu
 
 The central question we are trying to answer is ‘What kind of content streaming platforms need to produce to stay relevant around the world?’
 The sub-goals of the project are:
+
 1.Comparative study of the various streaming platforms’ current content and how they are differentiating themselves in the market.
+
 2.Predicting focus areas for these streaming platforms for the upcoming years.
 
 These subgoals will help us work our way up in answering the main question.
