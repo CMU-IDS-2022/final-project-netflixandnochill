@@ -3,8 +3,10 @@
 **GitHub Repo URL**: TODO
 
 Team: NetflixAndNoChill
+
 Team Members:
 Shivani Gampa: sgampa@andrew.cmu.edu
+
 Hamsini Ravishankar: hravisha@andrew.cmu.edu
 
 “Overall, this year marks a downward trend in subscriber growth for Netflix— it’s the company’s lowest growth year since 2015 and about a 50% decrease from its pandemic-inflated 2020 numbers. Consumers have always had many choices when it comes to their entertainment time — a competition that has only intensified over the last 24 months as entertainment companies all around the world develop their own streaming offering,” the company wrote in its letter to shareholders, admitting that “competition may be affecting [its] marginal growth some.”
