@@ -35,12 +35,26 @@ We have chosen four streaming platforms to do a comparative analysis, which are 
 
 
 Sketches:
-- To understand optimal content time on each platform.
-
-
+- To understand when producers should release content on the platform:(months vs year)
 
 ![image1](https://user-images.githubusercontent.com/43342469/163660627-bf116b9b-b241-455a-94ef-0e4a4bf24d72.png)
 
+- Movie Rating analysis: Which platform is more kid friendly ? Which  audiences are the target audiences for the platform?
 
+![img4](https://user-images.githubusercontent.com/43342469/163660805-c58c09a5-cc00-4050-affa-d0fd7da0bb05.png)
 
+- Genre Analysis
 
+![img3](https://user-images.githubusercontent.com/43342469/163660817-2ee188fe-8075-47c7-83f9-dbe1608183b2.png)
+
+- Countries and the duration of shows
+
+![img2](https://user-images.githubusercontent.com/43342469/163660830-27c5c5ce-31f5-4f72-8778-bc466a96a8f0.png)
+
+- Interactive charts to select country and view the top 10 genres being produced in that country
+
+![Interaction 1](https://user-images.githubusercontent.com/43342469/163660889-eb13a94e-7342-4a95-a65f-dc2d557bee9c.png)
+
+- Interactive chart to see the number of movies vs TV shows being relased based on year
+-
+![Interaction 2](https://user-images.githubusercontent.com/43342469/163660910-770d8088-2f79-431a-8edc-ff54964ac8e7.png)
