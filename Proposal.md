@@ -56,5 +56,5 @@ Sketches:
 ![Interaction 1](https://user-images.githubusercontent.com/43342469/163660889-eb13a94e-7342-4a95-a65f-dc2d557bee9c.png)
 
 - Interactive chart to see the number of movies vs TV shows being relased based on year
--
+
 ![Interaction 2](https://user-images.githubusercontent.com/43342469/163660910-770d8088-2f79-431a-8edc-ff54964ac8e7.png)
