@@ -28,6 +28,17 @@ References: https://techcrunch.com/2022/01/20/netflix-q4-2021-results-subscriber
 ** Monopolistic competition characterizes an industry in which many firms offer products or services that are similar (but not perfect) substitutes
 
 
+Sketching and Data Analysis
+
+Data Cleaning and Pre-processing:
+We have chosen four streaming platforms to do a comparative analysis, which are Netflix, Amazon Prime, Disney+, Hulu. All these 4 datasets have 12 similar columns which are a mix of numeric, ordinal, categorical, text and dates. For the amazon prime dataset the null percentage for production countries is very high, we are working on populating the column using IMDB movies dataset and TV shows dataset by performing joins on the data. We will also create new columns based on the date-added variable. (year and month) and perform binning of rating variable (converting numerical value into categorical data) and perform Feature selection by finding a correlation between variables using Pearson Correlation and remove variables with low variance
+
+
+Sketches:
+- To understand optimal content time on each platform.
+
+
+
 
 
 
