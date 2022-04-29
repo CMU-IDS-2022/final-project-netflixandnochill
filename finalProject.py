@@ -3,7 +3,6 @@ import encodings
 from itertools import count, groupby
 from multiprocessing import Condition
 from re import U
-from turtle import color, title, width
 import pandas as pd
 import altair as alt
 import streamlit as st
