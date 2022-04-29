@@ -2,7 +2,7 @@
 
 **Project URL**: TODO
 
-**Video URL**: [Youtube] (https://youtu.be/SPSoEmAdKfk)
+**Video URL**: [Youtube](https://youtu.be/SPSoEmAdKfk)
 
 Short (~250 words) abstract of the concrete data science problem and how the solutions addresses the problem.
 
