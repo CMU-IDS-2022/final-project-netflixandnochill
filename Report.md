@@ -4,7 +4,8 @@
 
 **Video URL**: [Youtube](https://youtu.be/SPSoEmAdKfk)
 
-Short (~250 words) abstract of the concrete data science problem and how the solutions addresses the problem.
+## Abstract
+
 
 ## Introduction
 VARIETY . ACCESSIBILITY . DOLLARS
