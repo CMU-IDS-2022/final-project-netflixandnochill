@@ -1,6 +1,6 @@
 # Final Project Report
 
-**Project URL**: TODO
+**Project URL**: [NetflixAndNoChill](https://share.streamlit.io/cmu-ids-2022/final-project-netflixandnochill/main/finalProject.py)
 
 **Video URL**: [Youtube](https://youtu.be/SPSoEmAdKfk)
 
@@ -65,6 +65,14 @@ Similar trends can be seen on Hulu as well. Hulu too releases most number of tit
 For Disney, the trends seem to be a bit different with the top genres. Disnesy seems to be hitting the spot by aiming November as the month for their major number of releases. Their top trending genres are Action and Animantion, righfully so as we have all grown up watching these Disney productions.
 ![image](https://user-images.githubusercontent.com/43342469/165892479-9cfec7a5-b30b-4eaa-87a8-759b5f84f9e7.png)
 ![image](https://user-images.githubusercontent.com/43342469/165892514-f7f4f9b7-a2c7-4216-b0ee-4bcf7a03315c.png)
+
+
+Prediction
+
+The graph plotted based on netflix data for the movie “Ocean Twelve” and what the recommender engine suggested as the closest movies.
+![image](https://user-images.githubusercontent.com/43342469/165905271-9cf28c03-8a7e-4904-b4ac-7e7d1e9cde0a.png)
+On the streamlit app, we can see the list of closesly related movies:
+![image](https://user-images.githubusercontent.com/43342469/165905322-57481387-07c8-46b5-8050-27b297bb4a89.png)
 
 
 
