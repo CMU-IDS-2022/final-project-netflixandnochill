@@ -2,7 +2,7 @@
 
 **Project URL**: TODO
 
-**Video URL**: https://youtu.be/SPSoEmAdKfk
+**Video URL**: [Youtube] (https://youtu.be/SPSoEmAdKfk)
 
 Short (~250 words) abstract of the concrete data science problem and how the solutions addresses the problem.
 
@@ -72,10 +72,16 @@ For Disney, the trends seem to be a bit different with the top genres. Disnesy s
 
 
 ## Discussion
+In this project, the most important takeaway that we learnt was to ask  the right questions and correlate them to the data available. We initially thought the datasets we had were rich with data related to the business world and niches of these platforms. Even though our narrative throughout the project did not change a lot, we learnt to ask better questions and not be afraid to fail and learn from the process.The audience has perhaps learnt this from us.
+
+The overarching insight is that the content the platforms are producing are quite similar and so there are other factors which make audiences pick one over the other. Accessibility for instance is one example of differentiation. This dataset hardly provides any other differentiation strategies. But we have to stop and ponder about the fact that most real world problems have messy data and not a complete picture. It is our responsibility as people who work with data to not make any assumptions but also question thoroughly the kind of narrative the dataset was built in the first place for.
+
 
 ## Future Work
 We can extend this project in the following ways:
 
 1. Build a recommendation system that combines all the above datasets. This will enable us to further discover how similar platforms are. It will be interesting because in the real world people have the choice to pick one or more platforms based on the content they have been recommended/watched. The user might be enticed by a recommendation engine that suggests content based on all the platforms they subscribe to. 
 2. Another way to advance the project is to incorporate graphs generated from the recommendation engine. The recommendation engine was built for movies, but it can also be extended to TV shows.
+
+## Citations
 
