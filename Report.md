@@ -39,7 +39,8 @@ First, we try to get an overall picture of the trends prevelant in globally. In 
 ![image](https://user-images.githubusercontent.com/43342469/165889496-e62dd15a-4076-458b-8f12-005ea19d1164.png)
 
 These three visualizations are interconnected, as in, we can select a particular country and the trending genres and rating will populate accordingly. This can help us gain some insight as to what is working in a particular country. This can take things a step further in figuring out the scope of expansion in terms of content being produced, it can also give us a broad idea and pave the way towards identifying a niche for the platforms
-![image](https://user-images.githubusercontent.com/43342469/165889887-43245f7e-cfab-423a-96d8-0fd2c56354d3.png)
+![image](https://user-images.githubusercontent.com/43342469/165889887-43245f7e-cfab-423a-96d8-0fd2c56354d3.png) |  ![image](https://user-images.githubusercontent.com/43342469/165890592-454f7c36-89ae-432c-a180-3f1d54262bad.png)
+
 
 
 ## Discussion
