@@ -31,6 +31,14 @@ Data Visualization
 
 For the interactive data visualizations we have used multiple altair charts like Choropleth Maps, Bar and Pie Charts. For Choropleth Maps we used the underlying world map from the in-built vega_datasets. In these maps, each country internally has an associated ID code. To map the countries in the graphical map to our dataset, we are also required to have these numeric ISO 3166-1’ codes that the transform_lookup can join to the appropriate geometry and populate the map with data as per need. We have also implemented a slicing tool to analyze data pertaining to each platform and find insights involving their title-addition timelines, the type of content being streamed on the platform (i.e Movie or TV Show), the highest genre they are focusing on. These insights have helped us answer some parts of the main problem as to what is currently working for the platforms and where they can develop a niche for themselves. 
 
+Movie Recommendation System
+
+Initially we wanted to build a model to predict the kind of content that these platforms wanted to produce. That is exactly the narrative we have for our visualization. However we hit a number of road blocks. First, there were very few variables that were relevant to this question. The dependent variables:country, rating. The independent variable in this case was ‘listed_in’ (genre). Second, the cardinality of the ‘country’ variable was huge yet we had to use one-hot-encoding to deal with the categorical variable which really increased the dimension of the dataset. Third, which was  the worse for our question was the fact that the important listed categorical variables above had values in their validation set which were not in their test set.The simplest way to deal with this problem was to drop the column entirely. Having seen these many challenges with trying a prediction model for this particular datasets, we decided to change it to elicit more insight.
+We decided to build a custom recommendation system for each of our platforms. The ‘description’ attribute was dealt with in 2 ways.\ 
+1.Movies are clustered using KMeans clustering with TF-IDF weights.(So two movies that belong in a group of description will share a node.)
+2.calculate the TF-IDF matrix and for each film and then take the top 5 of similar descriptions.In this case Adamic Adar measure used to compute closeness between the nodes.
+
+
 ## Results
 ![image](https://user-images.githubusercontent.com/43342469/165889417-081a708a-c957-4d69-8285-a762b68252d6.png)
 This is how the visualizations flow:
@@ -65,3 +73,8 @@ For Disney, the trends seem to be a bit different with the top genres. Disnesy s
 ## Discussion
 
 ## Future Work
+We can extend this project in the following ways:
+
+1. Build a recommendation system that combines all the above datasets. This will enable us to further discover how similar platforms are. It will be interesting because in the real world people have the choice to pick one or more platforms based on the content they have been recommended/watched. The user might be enticed by a recommendation engine that suggests content based on all the platforms they subscribe to. \
+2. Another way to advance the project is to incorporate graphs generated from the recommendation engine. The recommendation engine was built for movies, but it can also be extended to TV shows.
+
