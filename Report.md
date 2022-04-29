@@ -90,4 +90,7 @@ Datasets:
 3. [Hulu](https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows)
 
 Related Work:
-1. [(Sá et al., 2021)](https://www.mdpi.com/1424-8220/21/21/7328) Sá, S. L. de, Rocha, A. A. de A., & Paes, A. (2021, November 3). Predicting popularity of video streaming services with representation learning: A survey and a real-world case study. MDPI. Retrieved April 28, 2022, from https://www.mdpi.com/1424-8220/21/21/7328 
+1. [(Sá et al., 2021)](https://www.mdpi.com/1424-8220/21/21/7328) Sá, S. L. de, Rocha, A. A. de A., & Paes, A. (2021, November 3). Predicting popularity of video streaming services with representation learning: A survey and a real-world case study. MDPI. 
+2. [(Szabo & Huberman, 2010)](https://dl.acm.org/doi/10.1145/1787234.1787254) Szabo, G., & Huberman, B. A. (2010). Predicting the popularity of online content. 
+3. [(Tan & Zhang, 2019)](https://ieeexplore.ieee.org/document/8382331)Tan, Z., & Zhang, Y. (2019). Predicting the top-n popular videos via a cross-domain hybrid model. IEEE Xplore.
+4. [(Bhatt, 2009)](https://ieeexplore.ieee.org/document/5396250/)Bhatt, R. B. (2009). Neuro-fuzzy decision trees for content popularity model and multi-genre movie recommendation system over Social Network. IEEE Xplore
