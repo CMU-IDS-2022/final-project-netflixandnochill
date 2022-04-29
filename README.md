@@ -1,6 +1,7 @@
 # CMU Interactive Data Science Final Project
 
-* **Online URL**: TODO
+* **Online URL**: [NetflixAndNoChill](https://share.streamlit.io/cmu-ids-2022/final-project-netflixandnochill/main/finalProject.py)
+* **Video URL**: [Youtube](
 * **Team members**:
   * Shivani Gampa: sgampa@andrew.cmu.edu
   * Hamsini Ravishankar: hravisha@andrew.cmu.edu
@@ -14,7 +15,7 @@ Update towards the end of the project.
 
 ### Proposal
 
-- [ ] The URL at the top of this readme needs to point to your application online. It should also list the names of the team members.
+- [x] The URL at the top of this readme needs to point to your application online. It should also list the names of the team members.
 - [X] A completed [proposal](Proposal.md). Each student should submit the URL that points to this file in their github repo on Canvas.
 
 ### Sketches
