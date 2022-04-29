@@ -5,7 +5,7 @@
 **Video URL**: [Youtube](https://youtu.be/SPSoEmAdKfk)
 
 ## Abstract
-
+OTT is the ultimate platform for reaching target audience directly with content in high quality. There has been a huge shift towards OTT for three main reasons, they provide high value content at low cost, they produce original content as well as they are compatible with multiple devices. These factors have in turn spiked an intense competition amongst the multiple OTT platforms. Through this project we aim to find a differentiating factor among the multiple OTT streaming platforms by analyzing trends globally, country-wise and platform-wise. We have also developed a movie recommendation system that recommends a list of movies when a movie is inputted by the user and also generates a network through which we can analyze content popularity which in turn can help in finding the differentiating factor. In our research we have come to notice that figuring out content popularity on the web is a great starting point to have a steady retention rate of viewership, this analysis has led to us developing this project. 
 
 ## Introduction
 VARIETY . ACCESSIBILITY . DOLLARS
