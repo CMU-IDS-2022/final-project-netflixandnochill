@@ -84,4 +84,10 @@ We can extend this project in the following ways:
 2. Another way to advance the project is to incorporate graphs generated from the recommendation engine. The recommendation engine was built for movies, but it can also be extended to TV shows.
 
 ## Citations
+Datasets:
+1. [Netflix](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+2. [Dinsey+](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
+3. [Hulu](https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows)
 
+Related Work:
+1. [(Sá et al., 2021)](https://www.mdpi.com/1424-8220/21/21/7328) Sá, S. L. de, Rocha, A. A. de A., & Paes, A. (2021, November 3). Predicting popularity of video streaming services with representation learning: A survey and a real-world case study. MDPI. Retrieved April 28, 2022, from https://www.mdpi.com/1424-8220/21/21/7328 
