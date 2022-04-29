@@ -134,9 +134,9 @@ col1, col2, col3 = st.columns(3)
 with col1:
     st.image("netflix_logo1.jpg", width = 200)
 with col2:
-    st.image("disney_logo.png", width = 200)
+    st.image("disney_logo.jpg", width = 200)
 with col3:
-    st.image("hulu_logo.jpeg", width = 200)
+    st.image("hulu_logo.jpg", width = 200)
 
 st.write("VARIETY . ACCESSIBILITY . DOLLARS", width = 500)
 st.markdown("The main points of focus for OTT Platforms is to provide a wide variety of content to their viewers which is easily accessible to them at a price that binds the former two.\
