@@ -34,9 +34,9 @@ For the interactive data visualizations we have used multiple altair charts like
 Movie Recommendation System
 
 Initially we wanted to build a model to predict the kind of content that these platforms wanted to produce. That is exactly the narrative we have for our visualization. However we hit a number of road blocks. First, there were very few variables that were relevant to this question. The dependent variables:country, rating. The independent variable in this case was ‘listed_in’ (genre). Second, the cardinality of the ‘country’ variable was huge yet we had to use one-hot-encoding to deal with the categorical variable which really increased the dimension of the dataset. Third, which was  the worse for our question was the fact that the important listed categorical variables above had values in their validation set which were not in their test set.The simplest way to deal with this problem was to drop the column entirely. Having seen these many challenges with trying a prediction model for this particular datasets, we decided to change it to elicit more insight.
-We decided to build a custom recommendation system for each of our platforms. The ‘description’ attribute was dealt with in 2 ways.\ 
-1.Movies are clustered using KMeans clustering with TF-IDF weights.(So two movies that belong in a group of description will share a node.)
-2.calculate the TF-IDF matrix and for each film and then take the top 5 of similar descriptions.In this case Adamic Adar measure used to compute closeness between the nodes.
+We decided to build a custom recommendation system for each of our platforms. The ‘description’ attribute was dealt with in 2 ways.
+1. Movies are clustered using KMeans clustering with TF-IDF weights.(So two movies that belong in a group of description will share a node.)
+2. calculate the TF-IDF matrix and for each film and then take the top 5 of similar descriptions.In this case Adamic Adar measure used to compute closeness between the nodes.
 
 
 ## Results
@@ -75,6 +75,6 @@ For Disney, the trends seem to be a bit different with the top genres. Disnesy s
 ## Future Work
 We can extend this project in the following ways:
 
-1. Build a recommendation system that combines all the above datasets. This will enable us to further discover how similar platforms are. It will be interesting because in the real world people have the choice to pick one or more platforms based on the content they have been recommended/watched. The user might be enticed by a recommendation engine that suggests content based on all the platforms they subscribe to. \
+1. Build a recommendation system that combines all the above datasets. This will enable us to further discover how similar platforms are. It will be interesting because in the real world people have the choice to pick one or more platforms based on the content they have been recommended/watched. The user might be enticed by a recommendation engine that suggests content based on all the platforms they subscribe to. 
 2. Another way to advance the project is to incorporate graphs generated from the recommendation engine. The recommendation engine was built for movies, but it can also be extended to TV shows.
 
