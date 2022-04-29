@@ -32,6 +32,15 @@ Data Visualization
 For the interactive data visualizations we have used multiple altair charts like Choropleth Maps, Bar and Pie Charts. For Choropleth Maps we used the underlying world map from the in-built vega_datasets. In these maps, each country internally has an associated ID code. To map the countries in the graphical map to our dataset, we are also required to have these numeric ISO 3166-1’ codes that the transform_lookup can join to the appropriate geometry and populate the map with data as per need. We have also implemented a slicing tool to analyze data pertaining to each platform and find insights involving their title-addition timelines, the type of content being streamed on the platform (i.e Movie or TV Show), the highest genre they are focusing on. These insights have helped us answer some parts of the main problem as to what is currently working for the platforms and where they can develop a niche for themselves. 
 
 ## Results
+![image](https://user-images.githubusercontent.com/43342469/165889417-081a708a-c957-4d69-8285-a762b68252d6.png)
+This is how the visualizations flow:
+
+First, we try to get an overall picture of the trends prevelant in globally. In the map below you can see that the countries are color coded with number of titles produced. We can see that United States has the maximum number of titles being prodcued followed by India, United Kingdomw, Canada and Australia. Through this visualization we can also gauge the top 10 trending genres and the ratings that they are more focused at. Drama, Comedy, Action and Adventure seem to be the most popular, bringing in high viewrship rates and they also contain content that is for mature audience and may not be suitable for kids below the age of 17
+![image](https://user-images.githubusercontent.com/43342469/165889496-e62dd15a-4076-458b-8f12-005ea19d1164.png)
+
+These three visualizations are interconnected, as in, we can select a particular country and the trending genres and rating will populate accordingly. This can help us gain some insight as to what is working in a particular country. This can take things a step further in figuring out the scope of expansion in terms of content being produced, it can also give us a broad idea and pave the way towards identifying a niche for the platforms
+![image](https://user-images.githubusercontent.com/43342469/165889887-43245f7e-cfab-423a-96d8-0fd2c56354d3.png)
+
 
 ## Discussion
 
