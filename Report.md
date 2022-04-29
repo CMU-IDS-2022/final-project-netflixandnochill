@@ -39,8 +39,22 @@ First, we try to get an overall picture of the trends prevelant in globally. In 
 ![image](https://user-images.githubusercontent.com/43342469/165889496-e62dd15a-4076-458b-8f12-005ea19d1164.png)
 
 These three visualizations are interconnected, as in, we can select a particular country and the trending genres and rating will populate accordingly. This can help us gain some insight as to what is working in a particular country. This can take things a step further in figuring out the scope of expansion in terms of content being produced, it can also give us a broad idea and pave the way towards identifying a niche for the platforms
----|---
-![image](https://user-images.githubusercontent.com/43342469/165889887-43245f7e-cfab-423a-96d8-0fd2c56354d3.png)  ![image](https://user-images.githubusercontent.com/43342469/165890721-3ec53475-b6e9-4e18-9005-06f6997b8b41.png)
+
+![image](https://user-images.githubusercontent.com/43342469/165889887-43245f7e-cfab-423a-96d8-0fd2c56354d3.png)  
+![image](https://user-images.githubusercontent.com/43342469/165890721-3ec53475-b6e9-4e18-9005-06f6997b8b41.png)
+
+
+Now, we move onto Platform-wise analysis to see what are the type of titles being published on these platforms, like Movies or TV shows. We have created another interconnected bar graph to shpw the title addition trends in each platorm. We selct netflix for the first one
+![image](https://user-images.githubusercontent.com/43342469/165891196-b94a83f5-211b-4e77-aca0-f37867aa4512.png)
+For netflix we can see that, they have a lot of movies compared to TV Shows. We can also see that Netflix focuses more on the Holiday season to relase titles on its platforms, pertaining to a high number of additions in the months fo July, December, Sepetember which correlates to Summer vaction and Christmas-Thanksgiving seaons respectively.
+![image](https://user-images.githubusercontent.com/43342469/165891577-603d56d2-1a0b-4070-b211-55e4ce3011ad.png)
+Using, the interactive legend, we can see that Drama has the highest percentage of shows followed by comedy, action and adventure. 
+Similar trends can be seen on Hulu as well. Hulu too releases most number of titles on its platform during th holiday season. The trneding genres are also in the same order as Netflix. The only difference we can see her is that, Hulu has a lot more number of TV shows compared to Netflix.
+![image](https://user-images.githubusercontent.com/43342469/165891998-b8a056a9-d4e8-4558-94e8-87f14c149e0e.png)
+![image](https://user-images.githubusercontent.com/43342469/165892049-2d627b8f-de1f-4817-8f51-2047cf8a28e6.png)
+
+
+
 
 
 ## Discussion
