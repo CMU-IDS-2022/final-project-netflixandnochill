@@ -53,6 +53,11 @@ Similar trends can be seen on Hulu as well. Hulu too releases most number of tit
 ![image](https://user-images.githubusercontent.com/43342469/165891998-b8a056a9-d4e8-4558-94e8-87f14c149e0e.png)
 ![image](https://user-images.githubusercontent.com/43342469/165892049-2d627b8f-de1f-4817-8f51-2047cf8a28e6.png)
 
+For Disney, the trends seem to be a bit different with the top genres. Disnesy seems to be hitting the spot by aiming November as the month for their major number of releases. Their top trending genres are Action and Animantion, righfully so as we have all grown up watching these Disney productions.
+![image](https://user-images.githubusercontent.com/43342469/165892479-9cfec7a5-b30b-4eaa-87a8-759b5f84f9e7.png)
+![image](https://user-images.githubusercontent.com/43342469/165892514-f7f4f9b7-a2c7-4216-b0ee-4bcf7a03315c.png)
+
+
 
 
 
